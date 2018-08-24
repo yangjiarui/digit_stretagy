@@ -1,0 +1,845 @@
+                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:06  0.3425  0.3303  0.3353  0.351  2.564929e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:09  0.3425  0.3303  0.3353  0.351  2.564929e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:09  0.3425  0.3303  0.3353  0.351  2.564929e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:12  0.3425  0.3303  0.3353  0.351  2.564929e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:12  0.3425  0.3303  0.3353  0.351  2.564929e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:15  0.3425  0.3303  0.3352  0.351  2.564935e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:15  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:18  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:18  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:21  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:21  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:24  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:24  0.3425  0.3303  0.3354  0.351  2.564985e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:24  0.3425  0.3303  0.3356  0.351  2.565016e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:27  0.3425  0.3303  0.3356  0.351  2.565016e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:27  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:30  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:30  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:33  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:33  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:36  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:36  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:39  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:39  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:42  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:42  0.3425  0.3303  0.3355  0.351  2.565250e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:45  0.3425  0.3303  0.3354  0.351  2.565454e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:45  0.3425  0.3303  0.3354  0.351  2.565454e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:45  0.3425  0.3303  0.3354  0.351  2.565454e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:48  0.3425  0.3303  0.3354  0.351  2.565454e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:48  0.3425  0.3303  0.3354  0.351  2.565454e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:51  0.3425  0.3303  0.3353  0.351  2.565519e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:51  0.3425  0.3303  0.3353  0.351  2.565519e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:54  0.3425  0.3303  0.3353  0.351  2.565519e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:54  0.3425  0.3303  0.3355  0.351  2.565713e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:57  0.3425  0.3303  0.3355  0.351  2.565713e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:00:57  0.3425  0.3303  0.3355  0.351  2.565713e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:01:00  0.3425  0.3303  0.3353  0.351  2.565753e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:01:00  0.3425  0.3303  0.3353  0.351  2.565753e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:01:03  0.3425  0.3303  0.3353  0.351  2.565753e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:03  0.342  0.3303  0.3353  0.351  2.564089e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:06  0.342  0.3303  0.3353  0.351  2.564079e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:06  0.342  0.3303  0.3353  0.351  2.564113e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:09  0.342  0.3303  0.3353  0.351  2.564185e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:09  0.342  0.3303  0.3353  0.351  2.564288e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:09  0.342  0.3303  0.3353  0.351  2.564288e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:12  0.342  0.3303  0.3353  0.351  2.564288e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:12  0.342  0.3303  0.3355  0.351  2.564364e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:15  0.342  0.3303  0.3355  0.351  2.564364e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:15  0.342  0.3303  0.3355  0.351  2.564364e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:18  0.342  0.3303  0.3355  0.351  2.564364e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:18  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:21  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:21  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:24  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:24  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:27  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:27  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:27  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:30  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:33  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:33  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:33  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:36  0.342  0.3303  0.3354  0.351  2.564521e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:36  0.342  0.3303  0.3355  0.351  2.564548e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:39  0.342  0.3303  0.3355  0.351  2.564548e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:39  0.342  0.3303  0.3354  0.351  2.564790e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:42  0.342  0.3303  0.3354  0.351  2.564790e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:42  0.342  0.3303  0.3353  0.351  2.564797e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:45  0.342  0.3303  0.3353  0.351  2.564797e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:45  0.342  0.3303  0.3353  0.351  2.564797e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:48  0.342  0.3303  0.3353  0.351  2.564797e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:48  0.342  0.3303  0.3353  0.351  2.564797e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:51  0.342  0.3303  0.3353  0.351  2.564797e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:54  0.342  0.3303  0.3355  0.351  2.564803e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:54  0.342  0.3303  0.3355  0.351  2.564803e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:57  0.342  0.3303  0.3354  0.351  2.565080e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:01:57  0.342  0.3303  0.3354  0.351  2.565080e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:02:00  0.342  0.3303  0.3354  0.351  2.565080e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:02:00  0.342  0.3303  0.3354  0.351  2.565080e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:02:03  0.342  0.3303  0.3354  0.351  2.565080e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:09  0.3417  0.3303  0.3353  0.351  2.564827e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:09  0.3417  0.3303  0.3353  0.351  2.564867e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:24  0.3417  0.3303  0.3353  0.351  2.565361e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:27  0.3417  0.3303  0.3355  0.351  2.565334e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:33  0.3417  0.3303  0.3353  0.351  2.565425e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:36  0.3417  0.3303  0.3353  0.351  2.565425e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:36  0.3417  0.3303  0.3353  0.351  2.565432e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:39  0.3417  0.3303  0.3353  0.351  2.565432e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:39  0.3417  0.3303  0.3353  0.351  2.565432e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:39  0.3417  0.3303  0.3353  0.351  2.565432e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:42  0.3417  0.3303  0.3352  0.351  2.565529e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:42  0.3417  0.3303  0.3352  0.351  2.565529e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:45  0.3417  0.3303  0.3354  0.351  2.565508e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:45  0.3417  0.3303  0.3354  0.351  2.565508e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:48  0.3417  0.3303  0.3354  0.351  2.565508e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:48  0.3417  0.3303  0.3353  0.351  2.565723e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:51  0.3417  0.3303  0.3353  0.351  2.565778e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:51  0.3417  0.3303  0.3353  0.351  2.565778e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:54  0.3417  0.3303  0.3353  0.351  2.565778e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:54  0.3417  0.3303  0.3353  0.351  2.565778e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:57  0.3417  0.3303  0.3353  0.351  2.565778e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:02:57  0.3417  0.3303  0.3349  0.351  2.565757e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:03  0.3417  0.3303  0.3349  0.351  2.565757e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:03  0.3417  0.3303  0.3349  0.351  2.565757e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:06  0.3417  0.3303  0.3349  0.351  2.565757e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:06  0.3414  0.3303  0.3352  0.351  2.563937e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:09  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:09  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:12  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:12  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:15  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:15  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:18  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:18  0.3414  0.3303  0.335  0.351  2.564154e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:21  0.3414  0.3303  0.3349  0.351  2.564194e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:21  0.3414  0.3303  0.335  0.351  2.564359e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:24  0.3414  0.3303  0.335  0.351  2.564518e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:24  0.3414  0.3303  0.335  0.351  2.564518e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:27  0.3414  0.3303  0.3351  0.351  2.564485e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:27  0.3414  0.3303  0.3351  0.351  2.564644e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:27  0.3414  0.3303  0.3351  0.351  2.564644e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:30  0.3414  0.3303  0.3351  0.351  2.564644e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:30  0.3414  0.3303  0.3351  0.351  2.564644e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:33  0.3414  0.3303  0.3351  0.351  2.564644e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:33  0.3414  0.3303  0.3351  0.351  2.564878e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:36  0.3414  0.3303  0.3351  0.351  2.565031e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:36  0.3414  0.3303  0.3351  0.351  2.565031e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:39  0.3414  0.3303  0.3351  0.351  2.565031e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:39  0.3414  0.3303  0.335  0.351  2.565207e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:03:42  0.3414  0.3303  0.335  0.351  2.565207e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:42  0.3414  0.3303  0.3351  0.351  2.565241e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:45  0.3414  0.3303  0.3351  0.351  2.565241e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:45  0.3414  0.3303  0.3351  0.351  2.565241e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:48  0.3414  0.3303  0.3351  0.351  2.565241e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:48  0.3414  0.3303  0.3351  0.351  2.565241e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:51  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:51  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:54  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:54  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:57  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:03:57  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:00  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:00  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:03  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:03  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:03  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:06  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:06  0.3414  0.3303  0.3351  0.351  2.565374e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:04:09  0.3414  0.3303  0.3351  0.351  2.565374e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:09  0.341  0.3303  0.3351  0.351  2.563486e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:12  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:12  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:15  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:15  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:18  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:18  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:21  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:21  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:21  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:24  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:24  0.341  0.3303  0.3351  0.351  2.563520e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:27  0.341  0.3303  0.3351  0.351  2.563620e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:27  0.341  0.3303  0.3351  0.351  2.563620e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:30  0.341  0.3303  0.3351  0.351  2.563620e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:30  0.341  0.3303  0.3349  0.351  2.563646e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:33  0.341  0.3303  0.3349  0.351  2.563646e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:33  0.341  0.3303  0.3349  0.351  2.563646e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:36  0.341  0.3303  0.3349  0.351  2.563656e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:36  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:39  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:39  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:42  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:42  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:42  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:45  0.341  0.3303  0.3349  0.351  2.563865e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:45  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:48  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:48  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:51  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:51  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:54  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:54  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:54  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:57  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:04:57  0.341  0.3303  0.3351  0.351  2.564003e+07                      open     low   close   high           vol
+time                                                           
+2018-08-11 00:05:00  0.341  0.3303  0.3351  0.351  2.564003e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:00  0.3408  0.3303  0.3349  0.351  2.562229e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:03  0.3408  0.3303  0.3349  0.351  2.562372e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:03  0.3408  0.3303  0.3349  0.351  2.562372e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:06  0.3408  0.3303  0.3349  0.351  2.562372e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:06  0.3408  0.3303  0.3349  0.351  2.562372e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:09  0.3408  0.3303  0.3349  0.351  2.562372e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:09  0.3408  0.3303  0.3349  0.351  2.562510e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:09  0.3408  0.3303  0.3348  0.351  2.562554e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:12  0.3408  0.3303  0.3348  0.351  2.562554e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:12  0.3408  0.3303  0.3348  0.351  2.562591e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:15  0.3408  0.3303  0.3343  0.351  2.562888e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:15  0.3408  0.3303  0.3343  0.351  2.562888e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:18  0.3408  0.3303  0.3349  0.351  2.563047e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:18  0.3408  0.3303  0.3349  0.351  2.563047e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:21  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:21  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:24  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:24  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:27  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:27  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:30  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:30  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:30  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:33  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:33  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:36  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:36  0.3408  0.3303  0.3344  0.351  2.563073e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:39  0.3408  0.3303  0.3345  0.351  2.563088e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:39  0.3408  0.3303  0.3345  0.351  2.563184e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:42  0.3408  0.3303  0.3345  0.351  2.563184e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:42  0.3408  0.3303  0.3345  0.351  2.563184e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:42  0.3408  0.3303  0.3345  0.351  2.563184e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:45  0.3408  0.3303  0.3345  0.351  2.563184e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:45  0.3408  0.3303  0.3346  0.351  2.563168e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:48  0.3408  0.3303  0.3346  0.351  2.563168e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:48  0.3408  0.3303  0.3346  0.351  2.563168e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:51  0.3408  0.3303  0.3345  0.351  2.563208e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:51  0.3408  0.3303  0.3345  0.351  2.563339e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:54  0.3408  0.3303  0.3345  0.351  2.563339e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:54  0.3408  0.3303  0.3345  0.351  2.563339e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:57  0.3408  0.3303  0.3345  0.351  2.563339e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:57  0.3408  0.3303  0.3346  0.351  2.563368e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:05:57  0.3408  0.3303  0.3346  0.351  2.563368e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:00  0.3408  0.3303  0.3346  0.351  2.563368e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:00  0.3408  0.3303  0.3346  0.351  2.563368e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:03  0.3403  0.3303  0.3344  0.351  2.562353e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:03  0.3403  0.3303  0.3344  0.351  2.562353e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:06  0.3403  0.3303  0.3346  0.351  2.562490e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:06  0.3403  0.3303  0.3346  0.351  2.562490e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:09  0.3403  0.3303  0.3346  0.351  2.562490e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:09  0.3403  0.3303  0.3346  0.351  2.562490e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:12  0.3403  0.3303  0.3346  0.351  2.562490e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:12  0.3403  0.3303  0.3346  0.351  2.562490e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:15  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:15  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:18  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:18  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:21  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:21  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:24  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:24  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:27  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:27  0.3403  0.3303  0.3345  0.351  2.562546e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:30  0.3403  0.3303  0.3345  0.351  2.562524e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:30  0.3403  0.3303  0.3345  0.351  2.562859e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:33  0.3403  0.3303  0.3345  0.351  2.562831e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:33  0.3403  0.3303  0.3345  0.351  2.562831e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:36  0.3403  0.3303  0.3345  0.351  2.562839e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:36  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:39  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:39  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:42  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:42  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:45  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:45  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:48  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:48  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:48  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:51  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:51  0.3403  0.3303  0.3345  0.351  2.562922e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:54  0.3403  0.3303  0.3344  0.351  2.562976e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:54  0.3403  0.3303  0.3344  0.351  2.562976e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:57  0.3403  0.3303  0.3344  0.351  2.562976e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:06:57  0.3403  0.3303  0.3345  0.351  2.563206e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:00  0.3403  0.3303  0.3345  0.351  2.563206e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:00  0.3403  0.3303  0.3345  0.351  2.563206e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:03  0.3403  0.3303  0.3345  0.351  2.563206e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:03  0.3397  0.3303  0.3345  0.351  2.560959e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:06  0.3397  0.3303  0.3345  0.351  2.560932e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:06  0.3397  0.3303  0.3345  0.351  2.560932e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:09  0.3397  0.3303  0.3345  0.351  2.560932e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:09  0.3397  0.3303  0.3345  0.351  2.560932e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:12  0.3397  0.3303  0.3345  0.351  2.560932e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:12  0.3397  0.3303  0.3345  0.351  2.560990e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:15  0.3397  0.3303  0.3345  0.351  2.560990e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:15  0.3397  0.3303  0.3345  0.351  2.560990e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:18  0.3397  0.3303  0.3346  0.351  2.561479e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:18  0.3397  0.3303  0.3346  0.351  2.561479e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:30  0.3397  0.3303  0.3346  0.351  2.561754e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:30  0.3397  0.3303  0.3346  0.351  2.561754e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:33  0.3397  0.3303  0.3346  0.351  2.561754e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:33  0.3397  0.3303  0.3346  0.351  2.561754e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:36  0.3397  0.3303  0.3346  0.351  2.561754e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:36  0.3397  0.3303  0.3346  0.351  2.561754e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:39  0.3397  0.3303  0.3347  0.351  2.561917e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:39  0.3397  0.3303  0.3344  0.351  2.562124e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:42  0.3397  0.3303  0.3346  0.351  2.562318e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:42  0.3397  0.3303  0.3346  0.351  2.562440e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:45  0.3397  0.3303  0.3346  0.351  2.562440e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:45  0.3397  0.3303  0.3346  0.351  2.562440e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:48  0.3397  0.3303  0.3346  0.351  2.562440e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:48  0.3397  0.3303  0.3344  0.351  2.562530e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:48  0.3397  0.3303  0.3344  0.351  2.562530e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:51  0.3397  0.3303  0.3344  0.351  2.562530e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:51  0.3397  0.3303  0.3344  0.351  2.562570e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:54  0.3397  0.3303  0.3343  0.351  2.562692e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:54  0.3397  0.3303  0.3343  0.351  2.562658e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:57  0.3397  0.3303  0.3343  0.351  2.562658e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:07:57  0.3397  0.3303  0.3343  0.351  2.562658e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:00  0.3397  0.3303  0.3343  0.351  2.562658e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:00  0.3397  0.3303  0.3343  0.351  2.562658e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:03  0.3397  0.3303  0.3343  0.351  2.562658e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:03  0.3397  0.3303  0.3347  0.351  2.560430e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:06  0.3397  0.3303  0.3347  0.351  2.560430e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:06  0.3397  0.3303  0.3347  0.351  2.560430e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:06  0.3397  0.3303  0.3344  0.351  2.560784e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:09  0.3397  0.3303  0.3345  0.351  2.560981e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:09  0.3397  0.3303  0.3345  0.351  2.560981e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:12  0.3397  0.3303  0.3345  0.351  2.560981e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:12  0.3397  0.3303  0.3345  0.351  2.560981e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:15  0.3397  0.3303  0.3345  0.351  2.560981e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:15  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:18  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:18  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:21  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:21  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:21  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:24  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:24  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:27  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:27  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:30  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:30  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:33  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:33  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:36  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:36  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:36  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:39  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:39  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:42  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:42  0.3397  0.3303  0.3344  0.351  2.560954e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:45  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:45  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:48  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:48  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:51  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:51  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:54  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:54  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:57  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:08:57  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:00  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:00  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:03  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:03  0.3397  0.3303  0.3344  0.351  2.560955e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:03  0.3396  0.3303  0.3343  0.351  2.558683e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:06  0.3396  0.3303  0.3341  0.351  2.559007e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:06  0.3396  0.3303  0.3341  0.351  2.558995e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:09  0.3396  0.3303  0.3345  0.351  2.559053e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:09  0.3396  0.3303  0.3342  0.351  2.559092e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:12  0.3396  0.3303  0.3347  0.351  2.559097e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:12  0.3396  0.3303  0.3346  0.351  2.559100e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:15  0.3396  0.3303  0.3345  0.351  2.559112e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:15  0.3396  0.3303  0.3345  0.351  2.559112e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:18  0.3396  0.3303  0.3343  0.351  2.559272e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:18  0.3396  0.3303  0.3345  0.351  2.559433e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:21  0.3396  0.3303  0.3345  0.351  2.559433e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:21  0.3396  0.3303  0.3345  0.351  2.559433e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:24  0.3396  0.3303  0.3345  0.351  2.559433e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:24  0.3396  0.3303  0.3344  0.351  2.559467e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:24  0.3396  0.3303  0.3344  0.351  2.559467e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:27  0.3396  0.3303  0.3344  0.351  2.559467e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:27  0.3396  0.3303  0.3344  0.351  2.559467e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:09:30  0.3396  0.3303  0.3343  0.351  2.559608e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:39  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:39  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:42  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:42  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:45  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:45  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:48  0.3417  0.3303  0.3338  0.351  2.518483e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:48  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:51  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:51  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:54  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:54  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:57  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:57  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:40:57  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:00  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:03  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:03  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:06  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:06  0.3417  0.3303  0.3338  0.351  2.518523e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:09  0.3417  0.3303  0.3338  0.351  2.516366e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:09  0.3417  0.3303  0.3339  0.351  2.516370e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:09  0.3417  0.3303  0.334  0.351  2.516436e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:12  0.3417  0.3303  0.334  0.351  2.516436e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:12  0.3417  0.3303  0.334  0.351  2.516436e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:15  0.3417  0.3303  0.334  0.351  2.516436e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:15  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:18  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:18  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:21  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:21  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:24  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:24  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low   close   high           vol
+time                                                            
+2018-08-11 00:41:27  0.3417  0.3303  0.3341  0.351  2.516442e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:27  0.3417  0.3303  0.334  0.351  2.516414e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:27  0.3417  0.3303  0.334  0.351  2.516414e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:30  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:30  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:33  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:33  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:36  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:36  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:39  0.3417  0.3303  0.334  0.351  2.516493e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:39  0.3417  0.3303  0.334  0.351  2.516579e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:42  0.3417  0.3303  0.334  0.351  2.516579e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:42  0.3417  0.3303  0.334  0.351  2.516579e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:42  0.3417  0.3303  0.334  0.351  2.516579e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:45  0.3417  0.3303  0.334  0.351  2.516579e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:45  0.3417  0.3303  0.334  0.351  2.516579e+07                       open     low  close   high           vol
+time                                                           
+2018-08-11 00:41:48  0.3417  0.3303  0.334  0.351  2.516579e+07

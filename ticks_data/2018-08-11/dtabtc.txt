@@ -1,0 +1,333 @@
+                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:45  4.547000e-07    ...      63.779906
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:48  4.547000e-07    ...      63.784981
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:51  4.547000e-07    ...      63.784981
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:51  4.547000e-07    ...      63.784981
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:54  4.547000e-07    ...      63.794972
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:54  4.547000e-07    ...      63.794972
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:54  4.547000e-07    ...      63.794972
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:57  4.547000e-07    ...      63.794972
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:42:57  4.547000e-07    ...      63.794972
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:00  4.572000e-07    ...      63.801718
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:00  4.572000e-07    ...      63.801718
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:03  4.572000e-07    ...      63.801718
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:03  4.572000e-07    ...      63.801718
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:06  4.572000e-07    ...      63.811711
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:06  4.572000e-07    ...      63.811711
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:09  4.572000e-07    ...      63.811711
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:09  4.572000e-07    ...      63.811711
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:12  4.572000e-07    ...      63.811711
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:12  4.572000e-07    ...      63.821714
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:15  4.572000e-07    ...      63.821714
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:15  4.572000e-07    ...      63.821714
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:18  4.572000e-07    ...      63.821714
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:18  4.572000e-07    ...      63.831591
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:21  4.572000e-07    ...      63.831591
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:21  4.572000e-07    ...      63.831591
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:24  4.572000e-07    ...      63.831591
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:24  4.572000e-07    ...      63.831591
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:27  4.572000e-07    ...      63.840019
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:27  4.572000e-07    ...      63.841493
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:30  4.572000e-07    ...      63.841493
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:30  4.572000e-07    ...      63.841493
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:33  4.572000e-07    ...     63.85139
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:33  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:36  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:36  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:36  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:39  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:39  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:42  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:42  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:45  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:45  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:43:48  4.572000e-07    ...     63.85153
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:48  4.572000e-07    ...      63.861518
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:51  4.572000e-07    ...      63.873124
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:51  4.572000e-07    ...      63.873124
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:54  4.572000e-07    ...      63.873177
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:54  4.572000e-07    ...      63.873178
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:57  4.572000e-07    ...      63.873178
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:43:57  4.572000e-07    ...      63.873178
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:00  4.572000e-07    ...      63.873178
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:00  4.572000e-07    ...      63.873178
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:03  4.538000e-07    ...      63.883013
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:03  4.538000e-07    ...      63.883013
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:03  4.538000e-07    ...      63.883013
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:06  4.538000e-07    ...      63.883013
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:06  4.538000e-07    ...      63.883013
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:09  4.538000e-07    ...      63.893015
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:09  4.538000e-07    ...      63.893015
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:12  4.538000e-07    ...      63.893015
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:12  4.538000e-07    ...      63.893015
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:15  4.538000e-07    ...      63.893015
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:15  4.538000e-07    ...      63.893015
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:18  4.538000e-07    ...      63.902899
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:18  4.538000e-07    ...      63.902899
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:21  4.538000e-07    ...      63.902899
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:21  4.538000e-07    ...      63.902899
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:24  4.538000e-07    ...      63.912897
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:24  4.538000e-07    ...      63.917892
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:27  4.538000e-07    ...      63.926354
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:27  4.538000e-07    ...      63.950445
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:30  4.538000e-07    ...      63.960278
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:30  4.538000e-07    ...      63.960278
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:33  4.538000e-07    ...      63.960278
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:36  4.538000e-07    ...      63.970135
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:36  4.538000e-07    ...      63.970135
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:39  4.538000e-07    ...      63.970135
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:39  4.538000e-07    ...      63.970135
+
+[1 rows x 5 columns]                             open    ...          vol
+time                                 ...             
+2018-08-11 00:44:42  4.538000e-07    ...     63.97851
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:42  4.538000e-07    ...      63.980223
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:45  4.538000e-07    ...      63.980223
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:45  4.538000e-07    ...      63.980223
+
+[1 rows x 5 columns]                             open    ...            vol
+time                                 ...               
+2018-08-11 00:44:48  4.538000e-07    ...      63.980237
+
+[1 rows x 5 columns]

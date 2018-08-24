@@ -1,0 +1,1673 @@
+                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:06  0.000897  0.000872     ...       0.000936  3425.263516
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:09  0.000897  0.000872     ...       0.000936  3425.263516
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:12  0.000897  0.000872     ...       0.000936  3425.640247
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:12  0.000897  0.000872     ...       0.000936  3425.669326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:15  0.000897  0.000872     ...       0.000936  3425.669326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:15  0.000897  0.000872     ...       0.000936  3425.669326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:15  0.000897  0.000872     ...       0.000936  3425.669326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:18  0.000897  0.000872     ...       0.000936  3425.669326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:18  0.000897  0.000872     ...       0.000936  3425.669326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:21  0.000897  0.000872     ...       0.000936  3425.785643
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:21  0.000897  0.000872     ...       0.000936  3426.202347
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:24  0.000897  0.000872     ...       0.000936  3426.209031
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:24  0.000897  0.000872     ...       0.000936  3426.209031
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:27  0.000897  0.000872     ...       0.000936  3426.209031
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:27  0.000897  0.000872     ...       0.000936  3426.209031
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:30  0.000897  0.000872     ...       0.000936  3426.209031
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:30  0.000897  0.000872     ...       0.000936  3426.229866
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:33  0.000897  0.000872     ...       0.000936  3426.236747
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:33  0.000897  0.000872     ...       0.000936  3426.236747
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:36  0.000897  0.000872     ...       0.000936  3426.236747
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:36  0.000897  0.000872     ...       0.000936  3426.236747
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:36  0.000897  0.000872     ...       0.000936  3426.246834
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:39  0.000897  0.000872     ...       0.000936  3426.246834
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:42  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:42  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:42  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:45  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:48  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:48  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:51  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:51  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:54  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:54  0.000897  0.000872     ...       0.000936  3426.553642
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:54  0.000897  0.000872     ...       0.000936  3426.643267
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:57  0.000897  0.000872     ...       0.000936  3426.643267
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:00:57  0.000897  0.000872     ...       0.000936  3426.643267
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:00  0.000897  0.000872     ...       0.000936  3426.643267
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:00  0.000897  0.000872     ...       0.000936  3426.643267
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:03  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:03  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:06  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:06  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:09  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:09  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:12  0.000895  0.000872     ...       0.000936  3424.585209
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:12  0.000895  0.000872     ...       0.000936  3424.636488
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:15  0.000895  0.000872     ...       0.000936  3424.644581
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:15  0.000895  0.000872     ...       0.000936  3424.644581
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:18  0.000895  0.000872     ...       0.000936  3424.644581
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:18  0.000895  0.000872     ...       0.000936  3424.644581
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:21  0.000895  0.000872     ...       0.000936  3424.644581
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:21  0.000895  0.000872     ...       0.000936  3424.644581
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:24  0.000895  0.000872     ...       0.000936  3424.650667
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:24  0.000895  0.000872     ...       0.000936  3424.650667
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:27  0.000895  0.000872     ...       0.000936  3424.650667
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:27  0.000895  0.000872     ...       0.000936  3424.650667
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:30  0.000895  0.000872     ...       0.000936  3424.740338
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:30  0.000895  0.000872     ...       0.000936  3424.748634
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:33  0.000895  0.000872     ...       0.000936  3424.748634
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:33  0.000895  0.000872     ...       0.000936  3424.748634
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:36  0.000895  0.000872     ...       0.000936  3424.800904
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:36  0.000895  0.000872     ...       0.000936  3424.800904
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:39  0.000895  0.000872     ...       0.000936  3424.810829
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:39  0.000895  0.000872     ...       0.000936  3424.810829
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:42  0.000895  0.000872     ...       0.000936  3425.201509
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:42  0.000895  0.000872     ...       0.000936  3425.374309
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:45  0.000895  0.000872     ...       0.000936  3425.410473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:45  0.000895  0.000872     ...       0.000936  3425.410473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:45  0.000895  0.000872     ...       0.000936  3425.410473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:48  0.000895  0.000872     ...       0.000936  3425.410473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:48  0.000895  0.000872     ...       0.000936  3425.410473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:01:51  0.000895  0.000872     ...       0.000936  3425.410473
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:01:54  0.000895  0.000872     ...      0.000936  3425.46682
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:01:54  0.000895  0.000872     ...      0.000936  3425.46682
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:01:57  0.000895  0.000872     ...      0.000936  3425.46682
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:01:57  0.000895  0.000872     ...      0.000936  3425.46682
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:00  0.000895  0.000872     ...       0.000936  3425.556648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:00  0.000895  0.000872     ...       0.000936  3425.556648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:03  0.000895  0.000872     ...       0.000936  3425.556648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:21  0.000895  0.000872     ...       0.000936  3424.738774
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:27  0.000895  0.000872     ...       0.000936  3424.738774
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:33  0.000895  0.000872     ...       0.000936  3425.052625
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:36  0.000895  0.000872     ...       0.000936  3425.052625
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:36  0.000895  0.000872     ...       0.000936  3425.052625
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:39  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:39  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:42  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:42  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:42  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:45  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:45  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:48  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:48  0.000895  0.000872     ...       0.000936  3425.146079
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:51  0.000895  0.000872     ...       0.000936  3425.153238
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:51  0.000895  0.000872     ...       0.000936  3425.153238
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:02:54  0.000895  0.000872     ...      0.000936  3425.16718
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:54  0.000895  0.000872     ...       0.000936  3425.173844
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:57  0.000895  0.000872     ...       0.000936  3425.173844
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:02:57  0.000895  0.000872     ...       0.000936  3425.173844
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:03  0.000896  0.000872     ...       0.000936  3424.785706
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:03  0.000896  0.000872     ...       0.000936  3424.785706
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:06  0.000896  0.000872     ...       0.000936  3424.785706
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:06  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:09  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:09  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:12  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:12  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:15  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:15  0.000896  0.000872     ...      0.000936  3424.79417
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:18  0.000896  0.000872     ...       0.000936  3424.794926
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:18  0.000896  0.000872     ...       0.000936  3424.794926
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:18  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:21  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:21  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:24  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:24  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:27  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:27  0.000896  0.000872     ...       0.000936  3425.087096
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:30  0.000896  0.000872     ...       0.000936  3425.159951
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:30  0.000896  0.000872     ...       0.000936  3425.159951
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:33  0.000896  0.000872     ...       0.000936  3425.196673
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:33  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:36  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:36  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:39  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:39  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:39  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:03:42  0.000896  0.000872     ...      0.000936  3425.52103
+
+[1 rows x 5 columns]                         open       low    ...          high        vol
+time                                       ...                         
+2018-08-11 00:03:42  0.000896  0.000872    ...      0.000936  3425.5288
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:45  0.000896  0.000872     ...       0.000936  3425.618854
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:45  0.000896  0.000872     ...       0.000936  3425.618854
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:48  0.000896  0.000872     ...       0.000936  3425.618854
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:48  0.000896  0.000872     ...       0.000936  3425.626495
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:51  0.000896  0.000872     ...       0.000936  3425.626495
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:51  0.000896  0.000872     ...       0.000936  3425.626495
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:54  0.000896  0.000872     ...       0.000936  3425.626495
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:54  0.000896  0.000872     ...       0.000936  3425.626495
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:57  0.000896  0.000872     ...       0.000936  3425.626495
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:03:57  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:00  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:00  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:00  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:03  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:03  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:06  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:06  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:09  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:09  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:12  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:12  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:12  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:15  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:15  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:18  0.000896  0.000872     ...       0.000936  3425.635574
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:18  0.000894  0.000872     ...       0.000936  3424.668566
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:21  0.000894  0.000872     ...       0.000936  3424.668566
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:21  0.000894  0.000872     ...       0.000936  3424.668566
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:24  0.000894  0.000872     ...       0.000936  3424.668566
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:24  0.000894  0.000872     ...       0.000936  3424.668566
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:27  0.000894  0.000872     ...       0.000936  3424.970868
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:27  0.000894  0.000872     ...       0.000936  3424.970868
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:30  0.000894  0.000872     ...       0.000936  3424.970868
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:30  0.000894  0.000872     ...       0.000936  3424.970868
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:33  0.000894  0.000872     ...       0.000936  3424.970868
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:33  0.000894  0.000872     ...       0.000936  3424.970868
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:36  0.000894  0.000872     ...       0.000936  3425.059379
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:36  0.000894  0.000872     ...       0.000936  3425.059379
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:39  0.000894  0.000872     ...       0.000936  3425.059379
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:39  0.000894  0.000872     ...       0.000936  3425.059379
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:42  0.000894  0.000872     ...       0.000936  3425.059543
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:42  0.000894  0.000872     ...       0.000936  3425.059543
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:42  0.000894  0.000872     ...       0.000936  3425.059543
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:45  0.000894  0.000872     ...       0.000936  3425.059543
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:45  0.000894  0.000872     ...       0.000936  3425.059543
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:48  0.000894  0.000872     ...       0.000936  3425.059543
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:48  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:51  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:51  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:54  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:54  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:57  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:04:57  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:00  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:00  0.000894  0.000872     ...       0.000936  3425.081876
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:00  0.000891  0.000872     ...       0.000936  3422.565185
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:03  0.000891  0.000872     ...       0.000936  3422.565185
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:03  0.000891  0.000872     ...       0.000936  3422.654513
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:06  0.000891  0.000872     ...       0.000936  3422.654513
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:06  0.000891  0.000872     ...       0.000936  3422.654513
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:09  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:09  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:12  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:12  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:15  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:15  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:18  0.000891  0.000872     ...      0.000936  3422.72627
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:18  0.000891  0.000872     ...       0.000936  3422.734041
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:21  0.000891  0.000872     ...       0.000936  3422.772749
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:21  0.000891  0.000872     ...       0.000936  3422.811576
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:21  0.000891  0.000872     ...       0.000936  3422.835175
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:24  0.000891  0.000872     ...       0.000936  3423.292216
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:24  0.000891  0.000872     ...       0.000936  3423.292216
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:27  0.000891  0.000872     ...       0.000936  3423.292216
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:27  0.000891  0.000872     ...       0.000936  3423.292216
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:30  0.000891  0.000872     ...       0.000936  3423.292216
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:05:30  0.000891  0.000872     ...      0.000936  3423.35496
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:33  0.000891  0.000872     ...       0.000936  3423.461521
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:33  0.000891  0.000872     ...       0.000936  3423.828592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:36  0.000891  0.000872     ...       0.000936  3423.828592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:36  0.000891  0.000872     ...       0.000936  3423.828592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:39  0.000891  0.000872     ...       0.000936  3423.828592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:39  0.000891  0.000872     ...       0.000936  3423.867429
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:42  0.000891  0.000872     ...       0.000936  3423.867429
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:42  0.000891  0.000872     ...       0.000936  3423.868186
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:45  0.000891  0.000872     ...       0.000936  3423.868186
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:45  0.000891  0.000872     ...       0.000936  3423.898528
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:48  0.000891  0.000872     ...       0.000936  3423.898528
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:48  0.000891  0.000872     ...       0.000936  3423.898528
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:48  0.000891  0.000872     ...       0.000936  3423.898528
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:51  0.000891  0.000872     ...       0.000936  3424.293776
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:51  0.000891  0.000872     ...       0.000936  3424.293776
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:54  0.000891  0.000872     ...       0.000936  3424.293776
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:54  0.000891  0.000872     ...       0.000936  3424.307205
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:57  0.000891  0.000872     ...       0.000936  3424.527539
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:05:57  0.000891  0.000872     ...       0.000936  3424.527539
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:00  0.000891  0.000872     ...       0.000936  3424.527539
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:00  0.000885  0.000872     ...       0.000936  3420.799392
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:03  0.000885  0.000872     ...       0.000936  3420.799392
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:03  0.000885  0.000872     ...       0.000936  3420.807557
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:06  0.000885  0.000872     ...       0.000936  3420.949798
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:06  0.000885  0.000872     ...       0.000936  3420.949798
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:06  0.000885  0.000872     ...       0.000936  3420.949798
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:09  0.000885  0.000872     ...       0.000936  3420.949798
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:09  0.000885  0.000872     ...       0.000936  3421.170694
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:12  0.000885  0.000872     ...       0.000936  3421.170694
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:06:12  0.000885  0.000872     ...      0.000936  3421.17729
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:06:15  0.000885  0.000872     ...      0.000936  3421.17729
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:15  0.000885  0.000872     ...       0.000936  3421.593418
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:18  0.000885  0.000872     ...       0.000936  3421.593665
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:18  0.000885  0.000872     ...       0.000936  3421.593665
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:21  0.000885  0.000872     ...       0.000936  3421.593665
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:21  0.000885  0.000872     ...       0.000936  3421.593665
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:24  0.000885  0.000872     ...       0.000936  3421.593665
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:06:24  0.000885  0.000872     ...      0.000936  3421.66297
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:06:24  0.000885  0.000872     ...      0.000936  3421.66297
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:06:27  0.000885  0.000872     ...      0.000936  3421.66297
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:06:27  0.000885  0.000872     ...      0.000936  3421.66297
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:30  0.000885  0.000872     ...       0.000936  3421.845199
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:30  0.000885  0.000872     ...       0.000936  3421.845199
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:33  0.000885  0.000872     ...       0.000936  3421.892592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:33  0.000885  0.000872     ...       0.000936  3421.892592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:36  0.000885  0.000872     ...       0.000936  3421.892592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:36  0.000885  0.000872     ...       0.000936  3421.892592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:39  0.000885  0.000872     ...       0.000936  3421.892592
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:39  0.000885  0.000872     ...       0.000936  3421.981733
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:42  0.000885  0.000872     ...       0.000936  3421.994902
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:42  0.000885  0.000872     ...       0.000936  3422.004887
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:45  0.000885  0.000872     ...       0.000936  3422.004887
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:45  0.000885  0.000872     ...       0.000936  3422.004887
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:45  0.000885  0.000872     ...       0.000936  3422.004887
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:48  0.000885  0.000872     ...       0.000936  3422.004887
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:48  0.000885  0.000872     ...       0.000936  3422.438289
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:51  0.000885  0.000872     ...       0.000936  3422.438289
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:51  0.000885  0.000872     ...       0.000936  3422.438289
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:54  0.000885  0.000872     ...       0.000936  3422.438289
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:54  0.000885  0.000872     ...       0.000936  3422.527745
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:57  0.000885  0.000872     ...       0.000936  3422.527745
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:06:57  0.000885  0.000872     ...       0.000936  3422.623326
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:00  0.000882  0.000872     ...       0.000936  3421.217322
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:00  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:03  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:03  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:06  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:06  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:06  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:09  0.000882  0.000872     ...       0.000936  3421.547851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:09  0.000882  0.000872     ...       0.000936  3421.636827
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:12  0.000882  0.000872     ...       0.000936  3421.636827
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:15  0.000882  0.000872     ...       0.000936  3421.636827
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:15  0.000882  0.000872     ...       0.000936  3421.636827
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:15  0.000882  0.000872     ...       0.000936  3421.636827
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:18  0.000882  0.000872     ...       0.000936  3421.726236
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:18  0.000882  0.000872     ...       0.000936  3421.864261
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:07:30  0.000882  0.000872     ...      0.000936  3422.32692
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:30  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:33  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:33  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:36  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:36  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:39  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:39  0.000882  0.000872     ...       0.000936  3422.327057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:42  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:42  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:45  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:45  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:48  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:48  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:48  0.000882  0.000872     ...       0.000936  3422.764648
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:51  0.000882  0.000872     ...       0.000936  3422.853955
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:51  0.000882  0.000872     ...       0.000936  3422.853955
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:54  0.000882  0.000872     ...       0.000936  3422.853955
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:54  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:57  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:07:57  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:00  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:00  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:03  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:03  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:06  0.000882  0.000872     ...       0.000936  3423.210301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:06  0.000881  0.000872     ...       0.000936  3423.307423
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:09  0.000881  0.000872     ...       0.000936  3423.392562
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:09  0.000881  0.000872     ...       0.000936  3423.438067
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:12  0.000881  0.000872     ...       0.000936  3423.438067
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:12  0.000881  0.000872     ...       0.000936  3423.526859
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:15  0.000881  0.000872     ...       0.000936  3423.966295
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:15  0.000881  0.000872     ...       0.000936  3423.966295
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:18  0.000881  0.000872     ...       0.000936  3424.145473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:18  0.000881  0.000872     ...       0.000936  3424.145473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:18  0.000881  0.000872     ...       0.000936  3424.145473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:21  0.000881  0.000872     ...       0.000936  3424.145473
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:21  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:24  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:24  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:27  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:27  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:30  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:30  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:33  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:33  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:33  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:36  0.000881  0.000872     ...       0.000936  3424.707057
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:36  0.000881  0.000872     ...       0.000936  3424.796615
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:08:39  0.000881  0.000872     ...      0.000936  3425.07518
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:08:39  0.000881  0.000872     ...      0.000936  3425.07518
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:08:42  0.000881  0.000872     ...      0.000936  3425.07518
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:08:42  0.000881  0.000872     ...      0.000936  3425.07518
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:45  0.000881  0.000872     ...       0.000936  3425.451956
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:45  0.000881  0.000872     ...       0.000936  3425.588221
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:48  0.000881  0.000872     ...       0.000936  3425.675094
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:48  0.000881  0.000872     ...       0.000936  3425.765774
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:51  0.000881  0.000872     ...       0.000936  3425.856454
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:51  0.000881  0.000872     ...       0.000936  3425.936851
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:51  0.000881  0.000872     ...       0.000936  3426.027636
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:54  0.000881  0.000872     ...       0.000936  3426.027636
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:54  0.000881  0.000872     ...       0.000936  3426.027636
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:57  0.000881  0.000872     ...       0.000936  3426.027636
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:08:57  0.000881  0.000872     ...       0.000936  3426.027636
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:00  0.000881  0.000872     ...       0.000936  3426.027636
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:00  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:03  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:03  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:06  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:06  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:09  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:09  0.000881  0.000872     ...      0.000936  3425.59472
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:12  0.000881  0.000872     ...       0.000936  3425.610094
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:12  0.000881  0.000872     ...       0.000936  3425.610094
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:12  0.000881  0.000872     ...       0.000936  3425.610094
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:15  0.000881  0.000872     ...       0.000936  3425.641772
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:18  0.000881  0.000872     ...       0.000936  3425.647816
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:18  0.000881  0.000872     ...       0.000936  3425.647816
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:18  0.000881  0.000872     ...       0.000936  3425.647816
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:21  0.000881  0.000872     ...       0.000936  3425.647816
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:21  0.000881  0.000872     ...       0.000936  3425.737301
+
+[1 rows x 5 columns]                         open       low     ...           high          vol
+time                                        ...                            
+2018-08-11 00:09:24  0.000881  0.000872     ...       0.000936  3425.737301
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:24  0.000881  0.000872     ...      0.000936  3426.08255
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:27  0.000881  0.000872     ...      0.000936  3426.08255
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:27  0.000881  0.000872     ...      0.000936  3426.08255
+
+[1 rows x 5 columns]                         open       low     ...          high         vol
+time                                        ...                          
+2018-08-11 00:09:30  0.000881  0.000872     ...      0.000936  3426.08255
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:39  0.000895  0.00089     ...       0.000936  3407.653984
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:39  0.000895  0.00089     ...       0.000936  3407.653984
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:42  0.000895  0.00089     ...       0.000936  3407.653984
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:42  0.000895  0.00089     ...       0.000936  3407.653984
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:45  0.000895  0.00089     ...       0.000936  3408.021207
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:45  0.000895  0.00089     ...       0.000936  3408.021207
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:48  0.000895  0.00089     ...       0.000936  3408.021207
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:48  0.000895  0.00089     ...       0.000936  3408.021207
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:51  0.000895  0.00089     ...       0.000936  3408.021207
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:51  0.000895  0.00089     ...       0.000936  3408.364761
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:54  0.000895  0.00089     ...       0.000936  3408.438792
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:54  0.000895  0.00089     ...       0.000936  3408.439656
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:54  0.000895  0.00089     ...       0.000936  3408.439656
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:57  0.000895  0.00089     ...       0.000936  3408.439656
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:40:57  0.000895  0.00089     ...       0.000936  3408.439656
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:00  0.000892  0.00089     ...       0.000936  3407.959152
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:00  0.000892  0.00089     ...       0.000936  3407.959152
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:03  0.000892  0.00089     ...       0.000936  3407.959152
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:03  0.000892  0.00089     ...       0.000936  3407.959152
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:06  0.000892  0.00089     ...       0.000936  3407.959152
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:06  0.000892  0.00089     ...       0.000936  3408.048668
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:09  0.000892  0.00089     ...       0.000936  3408.048668
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:09  0.000892  0.00089     ...       0.000936  3408.048668
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:12  0.000892  0.00089     ...       0.000936  3408.048668
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:12  0.000892  0.00089     ...       0.000936  3408.048668
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:15  0.000892  0.00089     ...       0.000936  3408.048668
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:15  0.000892  0.00089     ...       0.000936  3408.315774
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:18  0.000892  0.00089     ...       0.000936  3408.315774
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:18  0.000892  0.00089     ...       0.000936  3408.315774
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:18  0.000892  0.00089     ...       0.000936  3408.315774
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:21  0.000892  0.00089     ...       0.000936  3408.315774
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:21  0.000892  0.00089     ...       0.000936  3408.315774
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:24  0.000892  0.00089     ...       0.000936  3408.405266
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:24  0.000892  0.00089     ...       0.000936  3408.405266
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:27  0.000892  0.00089     ...       0.000936  3408.405266
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:27  0.000892  0.00089     ...       0.000936  3408.405266
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:30  0.000892  0.00089     ...       0.000936  3408.405266
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:30  0.000892  0.00089     ...       0.000936  3408.405266
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:33  0.000892  0.00089     ...       0.000936  3408.483727
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:33  0.000892  0.00089     ...       0.000936  3408.503606
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:36  0.000892  0.00089     ...       0.000936  3408.503606
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:36  0.000892  0.00089     ...       0.000936  3408.503606
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:39  0.000892  0.00089     ...       0.000936  3408.503606
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:39  0.000892  0.00089     ...       0.000936  3408.503606
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:39  0.000892  0.00089     ...       0.000936  3408.503606
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:42  0.000892  0.00089     ...       0.000936  3408.506059
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:42  0.000892  0.00089     ...       0.000936  3408.506059
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:45  0.000892  0.00089     ...       0.000936  3408.513325
+
+[1 rows x 5 columns]                         open      low     ...           high          vol
+time                                       ...                            
+2018-08-11 00:41:45  0.000892  0.00089     ...       0.000936  3408.513325
+
+[1 rows x 5 columns]
